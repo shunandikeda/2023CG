@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無題ドキュメント</title>
+</head>
+<body>
+<div id="one">
+ <p>ここは最初のDiv(1)</p>
+ <p>ここは最初のDiv(2)</p>
+</div>
+<div id="two">
+ <p>ここはふたつめのDiv(1)</p>
+ <p>ここはふたつめのDiv(2)</p>
+</div>
+<div id="three">
+ <p>ここは３つめのDiv(1)</p>
+ <p>ここは３つめのDiv(2)</p>
+</div>
+</body>
+</html>
